@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append(\"\"c:\\\\Users\\\\Administrator\\\\.vscode\\\\extensions\\\\ms-python.devicesimulatorexpress-2020.0.35773\\\\out\"\")"
+    ],
+    "python.formatting.provider": "yapf"
+}
